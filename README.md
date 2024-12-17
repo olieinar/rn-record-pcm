@@ -1,4 +1,4 @@
-# rn-record-pcm
+# RNRecordPCM
 
 A React Native module for recording audio in raw PCM format, providing real-time audio data for further processing or storage.
 
@@ -64,12 +64,3 @@ const startRecording = async () => {
 
 startRecording();
 ```
-
-
-## License
-
-MIT
-
----
-
-Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
