@@ -1,6 +1,6 @@
 {
   "name": "rn-record-pcm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A React Native module for recording audio in raw PCM format, providing real-time audio data for further processing or storage.",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
