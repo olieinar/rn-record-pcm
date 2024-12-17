@@ -68,6 +68,7 @@ android/keystores/debug.keystore
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+.yarnrc.yml
 
 # Expo
 .expo/
@@ -81,3 +82,9 @@ lib/
 # React Native Codegen
 ios/generated
 android/generated
+
+.watchmanconfig
+.nvmrc
+.editorconfig
+.gitattributes
+lefthook.yml
